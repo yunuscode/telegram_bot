@@ -1,0 +1,1 @@
+# Telegram botni o'rganish bo'yicha kursning o'quv rejasi
