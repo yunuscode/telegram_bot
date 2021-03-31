@@ -1,2 +1,1 @@
-# telegram_bot
-Telegram bot bo'yicha dars reja
+# Telegram botni o'rganish kursi uchun dars rejasi
