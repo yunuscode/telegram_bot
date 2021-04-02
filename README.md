@@ -1,5 +1,9 @@
 # Telegram botni o'rganish kursi uchun dars rejasi
 
+## Talablar
+- Nodejsni bilish;
+- SQLni basic bilish;
+
 ## Mundarija
 1. Telegram Bot API bilan tanishish (to'liq);
 2. Nodejsda Bot API ga murojaat qilish (kutubxona yoki custom);
