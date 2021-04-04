@@ -2,14 +2,21 @@
 
 ## Talablar
 - Nodejsni bilish;
+    - FS modullari bilan to'liq ishlay olishi;
+    - Fetch API haqida tushunchaga ega bo'lishi;
+    - ES6 da kod yoza olishi;
 - SQLni basic bilish;
+    - Query yuborishni bilish;
+    - SELECT, UPDATE, DELETE, INSERT va JOIN lar bilan ishlagan bo'lishi;
+    - PG packageni bilishi;
+    - Yoki alternativ variant bo'yicha mongodb da shu amallarni bilishi kerak.  
 
 ## Mundarija
 1. Telegram Bot API bilan tanishish (to'liq);
 2. Nodejsda Bot API ga murojaat qilish (kutubxona yoki custom);
 3. Botni ma'lumotlar bazasiga ulash;
 4. Botda admin panel tuzish;
-5. Paymentlar bilan ishlash (Click va Payme)
+5. To'lovlar bilan ishlash (Click va Payme)
 6. Bot File Structure
 7. Bot bilan scraping amallarini bajarish
 
@@ -30,10 +37,10 @@
 - Express va Ejs yordamida botga admin panel yozish;
 - Kerakli vaqtda admin panelni socketlar bilan ta'minlash;
 - Realtime chat application yozish;
-### Paymentlar bilan ishlash
-- Paymentlar uchun token olish;
-- Paymentlarga oid methodlar;
-- Payment qilinganda keladigan responselarni boshqarish;
+### To'lovlar bilan ishlash
+- To'lovlar uchun token olish;
+- To'lovlarga oid methodlar;
+- To'lov qilinganda keladigan responselarni boshqarish;
 ### Bot File Structure
 - Bot yozganda filelarni to'g'ri joylashtirish;
 - Bot yozganda GitHub bilan ishlash;
