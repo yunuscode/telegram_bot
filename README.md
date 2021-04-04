@@ -13,12 +13,12 @@
 
 ## Mundarija
 1. [Telegram Bot API bilan tanishish (to'liq);](https://github.com/muhammadyunusuz/telegram_bot#telegram-bot-api-bilan-tanishish)
-2. Nodejsda Bot API ga murojaat qilish (kutubxona yoki custom);
-3. Botni ma'lumotlar bazasiga ulash;
-4. Botda admin panel tuzish;
-5. To'lovlar bilan ishlash (Click va Payme)
-6. Bot File Structure
-7. Bot bilan scraping amallarini bajarish
+2. [Nodejsda Bot API ga murojaat qilish (kutubxona yoki custom);](https://github.com/muhammadyunusuz/telegram_bot#nodejsda-bot-api-ga-murojaat-qilish)
+3. [Botni ma'lumotlar bazasiga ulash;](https://github.com/muhammadyunusuz/telegram_bot#botni-malumotlar-bazasiga-ulash)
+4. [Botda admin panel tuzish;](https://github.com/muhammadyunusuz/telegram_bot#botda-admin-panel-tuzish)
+5. [To'lovlar bilan ishlash (Click va Payme);](https://github.com/muhammadyunusuz/telegram_bot#tolovlar-bilan-ishlash)
+6. [Bot File Structure](https://github.com/muhammadyunusuz/telegram_bot#bot-file-structure)
+7. [Bot bilan scraping amallarini bajarish](https://github.com/muhammadyunusuz/telegram_bot#bot-bilan-scraping-amallarini-bajarish)
 
 ### Telegram Bot API bilan tanishish
 - @botfather bilan ishlash;
