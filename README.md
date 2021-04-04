@@ -12,7 +12,7 @@
     - Yoki alternativ variant bo'yicha mongodb da shu amallarni bilishi kerak.  
 
 ## Mundarija
-1. [Telegram Bot API bilan tanishish (to'liq);]('https://github.com/muhammadyunusuz/telegram_bot#telegram-bot-api-bilan-tanishish')
+1. [Telegram Bot API bilan tanishish (to'liq);]('../../telegram_bot#telegram-bot-api-bilan-tanishish')
 2. Nodejsda Bot API ga murojaat qilish (kutubxona yoki custom);
 3. Botni ma'lumotlar bazasiga ulash;
 4. Botda admin panel tuzish;
